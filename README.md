@@ -2,9 +2,6 @@
 <h3 align="center">Software Development Engineer | Java Backend & Deep Learning , B.Tech in Artificial Intelligence & Machine Learning (2027 Batch)</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshmishra0209" alt="harshmishra0209" /></a> </p>
-
 - 🔭 I’m currently working on [hybrid-gan-pso-framework](https://github.com/harshmishra0209/hybrid-gan-pso-framework)
 
 - 🌱 I’m currently learning **Cloud-native project**
