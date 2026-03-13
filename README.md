@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="center">Software Development Engineer | Java Backend & Deep Learning , B.Tech in Artificial Intelligence & Machine Learning (2027 Batch)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra0209&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra0209" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshmishra0209" alt="harshmishra0209" /></a> </p>
 
