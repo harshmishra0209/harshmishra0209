@@ -1,5 +1,5 @@
    <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
-<h3 align="center">Software Development Engineer | Java Backend & Machine Learning aur Deep Learning</h3>
+<h3 align="center">Software Development Engineer | Java Backend & Machine Learning & Deep Learning</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshmishra0209&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra0209" />
