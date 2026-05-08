@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
+   <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="center">Software Development Engineer | Java Backend & Deep Learning</h3>
 
 <p align="center">
@@ -7,50 +7,44 @@
 
 <p align="center">
   <strong>🎓 B.Tech in Artificial Intelligence & Machine Learning (2027 Batch)</strong><br>
-  Focused on building scalable backend systems and optimizing AI models.
+  Specializing in Scalable Backend Systems and Generative AI Optimization.
 </p>
 
 ---
 
-### 🚀 Professional Glimpse
+### 🚀 Technical Expertise
 
-- 🔭 **Currently Architecting:** [Hybrid GAN-PSO Framework](https://github.com/harshmishra0209/hybrid-gan-pso-framework) – A high-performance engine using Swarm Intelligence to optimize Image Synthesis.
-- ⚡ **Recent Project:** [EchoDoc](https://github.com/harshmishra0209) – An AI-powered Medical Agent presented at SIC Hackathon 2026.
-- 🌱 **Learning Path:** Mastering **Microservices Architecture** and **Cloud-Native Deployment (AWS/Docker)**.
-- 👯 **Collaboration:** Open for contributions on [BankingPortal-API](https://github.com/harshmishra0209/BankingPortal-API).
-- 💬 **Expertise:** Ask me about **Java Ecosystem (Spring Boot, Hibernate, Multithreading)** and **Deep Learning (CNNs, GANs)**.
+- 🔭 **Current Focus:** [Hybrid GAN-PSO Image Enhancement Engine](https://github.com/harshmishra0209/hybrid-gan-pso-framework) – implementing High-Performance Computing to optimize generative models.
+- 🏗️ **Architectural Interests:** Microservices, Multithreading, and Low-Level Design (LLD).
+- 🌱 **Learning:** Cloud-native architecture and Advanced Distributed Systems.
+- 💬 **Ask me about:** Java (JEE 17+), Spring Boot, Hibernate, Deep Learning (CNN, GANs), and RESTful API Design.
 
 ---
 
-### 🛠 Technical Skill Set
+### 🛠 Skills & Toolbox
 
-| Category | Tools & Technologies |
+| Category | Technical Proficiencies |
 | :--- | :--- |
-| **Backend** | Java (J2EE 17+), Spring Boot, RESTful APIs, Hibernate/JPA |
-| **AI / Deep Learning** | Python, TensorFlow, OpenCV, CNNs, GANs, PSO Optimization |
-| **Databases** | MySQL, PostgreSQL, Power Query |
-| **Developer Tools** | Git, GitHub, Postman, VS Code, IntelliJ IDEA |
-| **Data Science** | Pandas, Scikit-learn, Seaborn, Matplotlib |
-| **Frontend** | HTML5, CSS3, Bootstrap |
+| **Backend & Core** | Java (JEE 17+), Spring Boot, Hibernate, Multithreading, REST APIs |
+| **AI & Machine Learning** | Python, Deep Learning (CNN, GANs), PSO Optimization, TensorFlow |
+| **Data & Analytics** | MySQL, Power Query, Pandas, Scikit-learn, Seaborn |
+| **Tools & DevOps** | Git, GitHub, Postman, OpenCV, VS Code, IntelliJ IDEA |
 
 ---
 
-### 🔧 Languages and Tools Visuals
+### 🔧 Languages and Tools
 
 <p align="left">
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  <!-- AI/ML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" /> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" /> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" /> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit_learn" /> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" /> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" /> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" /> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" /> </a>
 </p>
 
 ---
@@ -59,19 +53,19 @@
 
 <p align="left">
 <a href="http://linkedin.com/in/harsh-mishra-859297378" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/harshmishra0209/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="mailto:harshmishra0209@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="35" width="45" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshmishra0209&show_icons=true&locale=en&layout=compact&theme=radical" />
@@ -79,9 +73,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmishra0209&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra0209&theme=github-compact&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_title=true" width="100%" alt="GitHub Activity Analysis" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra0209&repo=hybrid-gan-pso-framework&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmishra0209&theme=radical" alt="GitHub Streak" />
 </p>
+
