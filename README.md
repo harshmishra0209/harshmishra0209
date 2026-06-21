@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>🎓 B.Tech in Artificial Intelligence & Machine Learning (2027 Batch)</strong><br>
-  Specializing in Scalable Backend Systems and Generative AI Optimization.
+  
 </p>
 
 ---
