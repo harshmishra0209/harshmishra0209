@@ -15,9 +15,9 @@
 ### 🚀 Technical Expertise
 
 - 🔭 **Current Focus:** [Hybrid GAN-PSO Image Enhancement Engine](https://github.com/harshmishra0209/hybrid-gan-pso-framework) – implementing High-Performance Computing to optimize generative models.
-- 🏗️ **Architectural Interests:** Microservices, Multithreading,
+- 🏗️ **Architectural Interests:** Microservices, Multithreading system design(LLD).
 - 🌱 **Learning:** Cloud-native architecture and Advanced Distributed Systems.
-- 💬 **Ask me about:** Java (JEE 17+), Spring Boot, Hibernate, Deep Learning (CNN, GANs), and RESTful API Design.
+- 💬 **Ask me about:** Java (JEE 17+), Spring Boot, Hibernate, Machine Learning, Deep Learning (CNN, GANs), and RestAPI.
 
 ---
 
